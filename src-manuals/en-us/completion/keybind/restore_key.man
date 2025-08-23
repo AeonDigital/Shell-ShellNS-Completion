@@ -1,0 +1,15 @@
+Restores the events originally related to the indicated keys.
+
+@param string $1...
+Each parameter must be related to a key or set of keys whose event must be
+restored to the original function.
+
+Each key must be passed in single quotation marks and its main value must
+be enclosed in double quotation marks:
+
+``` sh
+shellNS_completion_keybind_restore_key '"\e[A"' '"\e[B"'
+```
+
+
+@return void

@@ -1,0 +1,8 @@
+Controls the events of the 'up arrow' and 'down arrow' buttons while
+presenting filling hints to the user, ensuring that they will
+disappear if they press any of these keys.
+
+- '"\e[A"' : 'up arrow'
+- '"\e[B"' : 'down arrow'
+
+@return void

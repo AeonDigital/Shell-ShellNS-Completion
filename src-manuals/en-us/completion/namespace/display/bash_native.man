@@ -1,0 +1,5 @@
+Prepares the collection of options to be presented to the user.
+
+Populates the variable 'COMPREPLY'.
+
+@return void

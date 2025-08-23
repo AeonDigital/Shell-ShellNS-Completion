@@ -1,0 +1,3 @@
+Reset the global variables used for autocomplete and fill hints.
+
+@return void

@@ -1,0 +1,6 @@
+Prepares the list of options to be used in autocomplete.
+
+@param bool $1
+Indicate '1' if you want the items to be prepared to be shown in color.
+
+@return void

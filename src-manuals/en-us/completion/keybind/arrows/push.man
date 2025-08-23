@@ -1,0 +1,3 @@
+Clear tips on push keys
+
+@return void
