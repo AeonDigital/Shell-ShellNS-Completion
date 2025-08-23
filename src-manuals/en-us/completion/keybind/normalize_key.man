@@ -1,0 +1,6 @@
+Normalizes the notation used to represent a key.
+
+@param string $1
+String that represents the key.
+
+@return string

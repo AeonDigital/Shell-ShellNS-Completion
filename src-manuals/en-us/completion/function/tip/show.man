@@ -1,0 +1,3 @@
+Shows the tooltip related to the current parameter.
+
+@return code

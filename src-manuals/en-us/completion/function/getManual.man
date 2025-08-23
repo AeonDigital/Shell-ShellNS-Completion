@@ -1,0 +1,3 @@
+Retrieves the manual information for the selected function.
+
+@return void

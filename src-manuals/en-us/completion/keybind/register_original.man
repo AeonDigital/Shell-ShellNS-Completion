@@ -1,0 +1,3 @@
+Register all events bind to their respective keys.
+
+@return void

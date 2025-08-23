@@ -1,0 +1,3 @@
+Clears all lines written by the previous tip.
+
+@return code

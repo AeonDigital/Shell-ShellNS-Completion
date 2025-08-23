@@ -1,0 +1,15 @@
+Checks the command currently present on the command line and separates what
+is namespace from what is argument.
+
+Populates the global variables:
+- SHELLNS_CURRENTPROMPT_IN_NAMESPACE
+- SHELLNS_CURRENTPROMPT_NAMESPACE
+- SHELLNS_CURRENTPROMPT_NAMESPACE_COMPLETIONS_LIST
+- SHELLNS_CURRENTPROMPT_FUNCTION_MAINNS
+- SHELLNS_CURRENTPROMPT_FUNCTION_NAME
+- SHELLNS_CURRENTPROMPT_FUNCTION_ARGUMENTS
+
+@param array $1
+Name of an array that contains the words that should be evaluated.
+
+@return void

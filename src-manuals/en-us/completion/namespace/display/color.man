@@ -1,0 +1,4 @@
+Prototype for presenting the color options to the user.
+This option makes you lose autocomplete with the use of <tab>.
+
+@return void
